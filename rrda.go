@@ -14,7 +14,7 @@
 package main
 
 import (
-	"code.google.com/p/go.net/idna"
+	"golang.org/x/net/idna"
 	"encoding/json"
 	"flag"
 	"fmt"
